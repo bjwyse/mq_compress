@@ -1,0 +1,3 @@
+The MapQuest API accepts large numbers of lat/lng pairs in a compressed format. This format is specified at http://open.mapquestapi.com/common/encodedecode.html
+
+These routines can be used to compress lat/lngs in the format specfied by MapQuest using Python.
